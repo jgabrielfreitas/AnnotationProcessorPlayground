@@ -5,4 +5,4 @@ git add .
 git commit -m "$1"
 git push -u origin master
 
-echo -e "PUSH ${RED}DONE${NC}!"
+echo "PUSH ${RED}DONE${NC}!"
